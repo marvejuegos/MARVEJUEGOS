@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Marvejuegos</string>
+
+    <string name="login">Login</string>
+    <string name="password">Contraseña</string>
+    <string name="e_mail">Email</string>
+    <string name="tag">Entra en Marvejuegos y disfruta de los mejores minijuegos</string>
+    <string name="register">Registrarse</string>
+    <string name="re_type_password">Reescribe tu contraseña</string>
+    <string name="your_name">Nombre de usuario</string>
+    <string name="btn_game1">DUCK HUNT</string>
+    <string name="btn_game2">POKEMON SHOWDOWN</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_cerrar_sesion">cerrar sesion</string>
+    <string name="btn_perfil">Perfil</string>
+
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="5dp"
+        android:fontFamily="@font/fuentegta"
+        android:gravity="center_horizontal"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="#989898"
+        android:textSize="50sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="304dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_refrescar"
+            android:layout_width="74dp"
+            android:layout_height="37dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="right"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_custom"
+            android:fontFamily="@font/play"
+            android:onClick="refresco"
+            android:text="refrescar"
+            android:textColor="@android:color/white" />
+        <ListView
+            android:id="@+id/lv_usuarios"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/ed_borrado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Inserta el nombre de usuario a borrar"
+            android:textColorHint="#989898"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/btn_borrado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/btn_custom"
+            android:fontFamily="@font/play"
+            android:onClick="borrado"
+            android:text="borrar usuario"
+            android:textColor="@android:color/white" />
+        <Button
+            android:id="@+id/btn_menu_users"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/btn_custom"
+            android:fontFamily="@font/play"
+            android:onClick="cerrar_sesion"
+            android:text="cerrar sesion"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>
