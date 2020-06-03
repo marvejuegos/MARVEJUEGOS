@@ -1,5 +1,13 @@
 # MARVEJUEGOS
-
+usuario administrador:
+  romarvedam@gmail.com
+  admin
+  
+usuario normal predeterminado:
+  alvarobf98@gmail.com
+  1234
+  
+  
 MANUAL DE INSTALACIÓN / INSTALLATION MANUAL
 Para la instalación de la aplicación, tenemos varias opciones: descargar la aplicacion desde Google Play buscándola por su nombre; o descargar el apk desde el siguiente enlace de MediaFire: http://www.mediafire.com/file/1amo2rtdjs9s01o/app-debug.apk/file
 For the installation of the application, we have several options: download the application from Google Play searching for it by name; or download the apk from the following MediaFire link:
