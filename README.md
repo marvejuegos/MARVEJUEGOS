@@ -11,9 +11,9 @@ usuario normal predeterminado:
   
   
 MANUAL DE INSTALACIÓN / INSTALLATION MANUAL
-Para la instalación de la aplicación, tenemos varias opciones: descargar la aplicacion desde Google Play buscándola por su nombre; o descargar el apk desde el siguiente enlace de MediaFire: http://www.mediafire.com/file/1amo2rtdjs9s01o/app-debug.apk/file
+Para la instalación de la aplicación, tenemos varias opciones: descargar la aplicacion desde Google Play buscándola por su nombre; o descargar el apk desde el siguiente enlace de MediaFire: http://www.mediafire.com/file/5b0sassjpoo9d7t/marvejuegos.apk/file
 For the installation of the application, we have several options: download the application from Google Play searching for it by name; or download the apk from the following MediaFire link:
-http://www.mediafire.com/file/1amo2rtdjs9s01o/app-debug.apk/file
+http://www.mediafire.com/file/5b0sassjpoo9d7t/marvejuegos.apk/file
 
 MANUAL DE USUARIO / USER MANUAL
 El usuario básico de esta aplicación tendrá la opción de registrarse en el caso de que sea nuevo y la opcion de loguearse en el caso de que no sea nuevo. Una vez dentro de la aplicacion, podrá jugar a los juegos propuestos en la pantalla de Usuarios (ver Imagen 3 Desarrollo 11).
