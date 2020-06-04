@@ -1,4 +1,6 @@
 # MARVEJUEGOS
+IMPORTANTE: la aplicación funciona mejor en moviles de 5", también está especificado en la memoria.
+
 usuario administrador:
   romarvedam@gmail.com
   admin
