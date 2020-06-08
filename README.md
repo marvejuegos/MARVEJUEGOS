@@ -1,6 +1,8 @@
 # MARVEJUEGOS
 IMPORTANTE: la aplicación funciona mejor en moviles de 5", también está especificado en la memoria.
 
+VIDEO: https://youtu.be/dWvNPLnuobw
+
 usuario administrador:
   romarvedam@gmail.com
   admin
